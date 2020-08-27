@@ -2,10 +2,10 @@
 Aplicación en Flutter que lee **códigos QR**. Lanza la cámara para tomar un código, leerlo, reaccionar en base al código y almacenar la información en una base de datos interna (**SQLite**) que se tiene en el dispositivo.
 
 <p>
-    <div> <img src="https://res.cloudinary.com/dzgd10ssq/image/upload/v1598568801/Apps/eeijgnmyianpubgsp6ec.jpg" width="200"/ hspace="5"> </div>
-    <div> <img src="https://res.cloudinary.com/dzgd10ssq/image/upload/v1598568801/Apps/aqxvbhcz3wndjkn3d2xc.jpg" width="200"/ hspace="5"> </div>
-    <div> <img src="https://res.cloudinary.com/dzgd10ssq/image/upload/v1598568802/Apps/fb4mkxzcg8cvd7p73we2.jpg" width="200"/ hspace="5"> </div>
-    <div> <img src="https://res.cloudinary.com/dzgd10ssq/image/upload/v1598570572/Apps/mbztkwycynnvkmncjujb.gif" width="190px"/>  </div>
+    <img src="https://res.cloudinary.com/dzgd10ssq/image/upload/v1598568801/Apps/eeijgnmyianpubgsp6ec.jpg" width="200"/ hspace="5"> 
+    <img src="https://res.cloudinary.com/dzgd10ssq/image/upload/v1598568801/Apps/aqxvbhcz3wndjkn3d2xc.jpg" width="200"/ hspace="5">
+    <img src="https://res.cloudinary.com/dzgd10ssq/image/upload/v1598568802/Apps/fb4mkxzcg8cvd7p73we2.jpg" width="200"/ hspace="5">
+    <img src="https://res.cloudinary.com/dzgd10ssq/image/upload/v1598570572/Apps/mbztkwycynnvkmncjujb.gif" width="190px"/>  </div>
 </p>
 
 
